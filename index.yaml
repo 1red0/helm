@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  database:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T13:03:46.8207867+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 798fdaf97ae0f5bef772b0bd16088806d81fec8b5b951c479869826b91c4bd8a
+    name: database
+    type: application
+    urls:
+    - https://github.com/1red0/helm.git/database-0.1.0.tgz
+    version: 0.1.0
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T13:03:46.8217858+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5933c12355db8f4b103cfb33b72dc2aaedd1ae8630426b44c9d27811e0b8218f
+    name: webapp
+    type: application
+    urls:
+    - https://github.com/1red0/helm.git/webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-22T13:03:46.8167859+03:00"
